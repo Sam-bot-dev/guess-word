@@ -1,4 +1,6 @@
 import random
+turns=12
+Guesses=''
 print("Welcome to the word guessing game!")
 name=input("What is your name?\n")
 print("Good luck",name,"boi\n")
